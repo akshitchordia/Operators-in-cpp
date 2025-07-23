@@ -64,7 +64,6 @@ Used in coordinate-based quadrant detection where both `x` and `y` need to be ch
 - `=` : Assigns a value to a variable.  
 
 **Usage Example:**  
-```cpp
 average = (m1 + m2 + m3 + m4 + m5) / 5;
 Conditional Statements in C++
 Conditional statements allow the program to make decisions and execute code based on conditions.
